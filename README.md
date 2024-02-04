@@ -2,6 +2,6 @@
 #education
 M.pharmacy
 # work experinece
-5 years
-#skill
-Medical coding
+5 years as medical coder
+#skills
+ Medical coding
