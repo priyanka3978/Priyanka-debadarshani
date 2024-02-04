@@ -1,7 +1,7 @@
 # Priyanka-debadarshani
-#education
+Education
 M.pharmacy
 # work experinece
 5 years as medical coder
-#skills
+#SKills
  Medical coding
