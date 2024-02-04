@@ -1,3 +1,6 @@
+title:priyanka
+theme:jekyll-theme-minimal
+
 # Priyanka-debadarshani
 Education
 M.pharmacy
